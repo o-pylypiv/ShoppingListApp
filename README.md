@@ -1,5 +1,3 @@
-Here is a formatted README file for your Challenge2 project:
-
 # Shopping List
 
 Shopping List is a simple iOS app that allows users to create and manage their own shopping lists.
